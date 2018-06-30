@@ -1,0 +1,39 @@
+html{
+  margin: 0;
+  width: 100%
+}
+
+div[class="row"] {
+  outline: 1px dotted rgba(47, 28, 129, 0.801);
+}
+
+nav[class="row"] {
+  outline: 1px dotted rgba(47, 28, 129, 1);
+}
+
+  /* div[class^="col-"] {
+    background-color: rgba(255, 0, 0, 0.2);
+    outline: 1px dotted rgba(0, 0, 0, 0.5);
+  } */
+
+.container-fluid{
+  padding: 0;
+}
+
+.heading{
+  height: 69px;
+}
+
+.navbar{
+  height: 69px;
+}
+
+.NameTag{
+  background-color: #4aaaa5;
+  color: white;
+}
+
+.NavButtons{
+  background-color: #4aaaa5;
+  color: white;
+}
